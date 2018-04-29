@@ -41,12 +41,12 @@ Write-up
 
 1. Initial model run of MTCNN. 
 
-<img src="https://github.com/commaai/monitoring/blob/master/image-0000514_processed">
+<img src="https://github.com/PrinceP/monitoring/blob/master/image-0000514_processed">
 
 
 2. Initial model run of dlib. 
 
-<img src="https://github.com/commaai/monitoring/blob/master/image-0001053_land.png">
+<img src="https://github.com/PrinceP/monitoring/blob/master/image-0001053_land.png">
 
 
 To - do
