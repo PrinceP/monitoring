@@ -41,7 +41,7 @@ Write-up
 
 1. Initial model run of MTCNN. 
 
-<img src="https://github.com/PrinceP/monitoring/blob/master/image-0000514_processed">
+<img src="https://github.com/PrinceP/monitoring/blob/master/image-0000514_processed.png">
 
 
 2. Initial model run of dlib. 
