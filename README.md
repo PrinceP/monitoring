@@ -1,7 +1,7 @@
 The comma.ai Driver Monitoring Challenge!
 ======
 
-We have released 4 one minute long videos of people driving cars in the videos/ folder.
+Four one minute long videos of people driving cars in the videos/ folder.
 
 <img src="https://github.com/commaai/monitoring/blob/master/ss.png">
 
@@ -10,9 +10,9 @@ They were recorded with an <a href="https://shop.comma.ai/products/eon-dashcam-d
 Background
 -----
 
-We believe driver monitoring is one of the keys to safely ramping up to full self driving cars.
+Driver monitoring is one of the keys to safely ramping up to full self driving cars.
 
-We wrote <a href="https://medium.com/@comma_ai/safety-and-driver-attention-2a33d3d23109">a lot more on our medium</a>
+Comma blog -  <a href="https://medium.com/@comma_ai/safety-and-driver-attention-2a33d3d23109">Here</a>
 
 
 Challenge
@@ -23,24 +23,44 @@ Your goal:
 - Then, track their eyes
 - Then, if you are bored, track their emotional state
 
-Annotate your tracking nicely on the video and do a writeup with pictures.
 
-Hiring
+
+Solution video
 -----
 
-Feel free to fork this and just show off your solution on your GitHub. Or, when done, apply for a job here at givemeajob@comma.ai
+Some of the test ran for 1st video are uploaded. 
 
-We are hiring a full time "Driving Monitoring Engineer" to come join us in our lovely SF office, and when you apply, we'll ask that you complete this challenge.
+1. Video 1, Subject1 - [Video1](https://youtu.be/KZGRoYKqrRU)
+2. Video 2, Subject2 - [Video2](https://youtu.be/C9RDo3-St8k)
 
-Other Challenge
+
+
+Write-up 
 -----
 
-If you are looking for a harder non-subjective challenge, try the <a href="https://twitter.com/comma_ai/status/854488327797448704">speed prediction challenge</a>
 
-Goal is to predict the speed of the car from video. Train and test set included.
+1. Initial model run of MTCNN. 
+
+<img src="https://github.com/commaai/monitoring/blob/master/image-0000514_processed">
+
+
+2. Initial model run of dlib. 
+
+<img src="https://github.com/commaai/monitoring/blob/master/image-0001053_land.png">
+
+
+To - do
+-----
+
+1. Emotional state intial run
+2. Improvement for rest of videos
+3. Improvement by retraining and testing.
+4. Trying for contrasting, image processing etc.
+5. RNN for sequence of the frames. 
+
 
 Twitter
 ------
 
-<a href="https://twitter.com/comma_ai">Follow us!</a>
+<a href="https://twitter.com/pp_spector">Follow me!</a>
 
